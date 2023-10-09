@@ -17,7 +17,7 @@ Portability: You can easily share your configuration settings across different i
 
 
 Want to know more about Configurations in .NET. Checkout the below video
-[![Watch the Video Here](https://img.youtube.com/vi/-qNqqlgBgTw/0.jpg)](https://www.youtube.com/watch?v=-qNqqlgBgTw)
+[![Watch the Video Here](https://img.youtube.com/vi/TRGlwXwaG6I/0.jpg)](https://www.youtube.com/watch?v=TRGlwXwaG6I)
 
 
 
